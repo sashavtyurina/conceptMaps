@@ -1,0 +1,36 @@
+
+Percentage point - Wikipedia, the free encyclopedia
+Percentage point 
+From Wikipedia, the free encyclopedia Jump to: navigation, search 
+, This article does not cite any references or sources . Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2009) , A percentage point ( pp ) is the unit for the arithmetic difference of two percentages. e.g. going from 1o 9s an 8 percentage point increase. [ citation needed ] 
+Consider the following hypothetical example: In 1980, 40 percent of the population smoked, and in 1990 only 30 percent smoked. One can thus say that from 1980 to 1990, the incidence of smoking decreased by 10 percentage points even though smoking did not decrease by 10 percent (actually it decreased by 25 percent ) a percentages indicate ratios, not differences.
+Percentage point differences are one way to express a risk or probability. Consider a drug that cures a given disease in 70 percent of all cases, while without the drug, the disease heals spontaneously in only 50 percent of cases. The drug reduces absolute risk by 20 percentage points. Alternatives may be more meaningful to consumers of statistics. The such as the reciprocal (also known as the number needed to treat (NNT)). In this case, the reciprocal transform of the percentage point difference would be 1 / (20= 1 / 0.20 = 5, i.e., if 5 patients are treated with the drug, one could expect to heal one more case of the disease than would have occurred in the absence of the drug.
+For measurements with percentage as unit, like growth, yield, or ejection fraction, the standard deviation will have percentage points as unit. [ citation needed ] Mistakenly using percentage as the unit for the standard deviation is confusing since percentage is also used as a unit for the relative standard deviation, i.e., the standard deviation divided by the average value (Coefficient of Variation). [ citation needed ] 
+Related units [ edit ] 
+Percentage (1 part in 100, Per mille (a) 1 part in 1, 000, Basis point (a) 1 part in 10, 000, Parts-per notation, Baker percentage, Percent point function, . 
+References [ edit ] 
+External links [ edit ] 
+Retrieved from "http://en.wikipedia.org/w/index.php?title=Percentage_point and oldid=626062076" Categories: Mathematical terminology, Statistical terminology, . Hidden categories: Articles lacking sources from June 2009, All articles lacking sources, All articles with unsourced statements, Articles with unsourced statements from May 2014, Articles with unsourced statements from May 2012, Articles with unsourced statements from December 2012, . 
+Navigation menu
+Personal tools
+Create account, Log in, . 
+Namespaces
+Article , Talk , . 
+Variants 
+. 
+Views
+Read , Edit , View history , . 
+More 
+. 
+Search 
+Navigation
+Main page, Contents, Featured content, Current events, Random article, Donate to Wikipedia, Wikimedia Shop, . 
+Interaction
+Help, About Wikipedia, Community portal, Recent changes, Contact page, . 
+Tools
+What links here, Related changes, Upload file, Special pages, Permanent link, Page information, Wikidata item, Cite this page, . 
+Print/export
+Create a book, Download as PDF, Printable version, . 
+Languages
+Deutsch, Eesti, Euskara, iei, Magyar, Nederlands, Norsk bokmAl, Norsk nynorsk, Polski, PortuguAs, SlovenAina, SlovenAAina, Svenska, aeae, . Edit links This page was last modified on 18 September 2014 at 09:36.
+, Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. WikipediaA is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization., . Privacy policy, About Wikipedia, Disclaimers, Contact Wikipedia, Developers, Mobile view, . , . 

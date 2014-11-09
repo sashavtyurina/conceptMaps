@@ -1,0 +1,57 @@
+
+Credit (finance) - Wikipedia, the free encyclopedia
+Credit (finance) 
+From Wikipedia, the free encyclopedia Jump to: navigation, search 
+, This article needs attention from an expert in Finance . Please add a reason or a talk parameter to this template to explain the issue with the article. WikiProject Finance (or its Portal) may be able to help recruit an expert. (November 2013) , Domestic credit to private sector in 2005 
+Finance , Financial markets Bond market, Commodity market, Derivatives market, Foreign exchange market, Money market, Over the counter, Private equity, Real estate, Spot market, Stock market, Financial market participants:, Investor and speculator, Institutional and retail, . , Financial instruments Cash:, Deposit, Derivative, Exotic option, Futures contract, Loan, Option (call or put), Security, Stock, Time deposit or certificate of deposit, . , Corporate finance Accounting, Audit, Capital budgeting, Credit rating agency, Financial risk management, Financial statement, Leveraged buyout, Mergers and acquisitions, Structured finance, Venture capital, . , Personal finance Credit and debt, Employment contract, Financial planning, Retirement, Student financial aid in the United States, . , Public finance Government spending :, Government final consumption expenditure, Government operations, Redistribution of wealth, Transfer payment, Government revenue :, Taxation, Deficit spending, Government budget, Government budget deficit, Government debt, Non-tax revenue, Warrant of payment, . , Banks and banking Central bank, Deposit account, Fractional reserve banking, Lists of banks, Loan, Money supply, . , Financial regulation Professional certification in financial services, Accounting scandals, . , Standards ISO 31000, International Financial Reporting Standards, . , Economic history History of private equity and venture capital, Recession, Stock market bubble, Stock market crash, . , v , t , e , . , Credit (from Latin credere translation. "to believe") is the trust which allows one party to provide resources to another party where that second party does not reimburse the first party immediately (thereby generating a debt), but instead arranges either to repay or return those resources (or other materials of equal value) at a later date. The resources provided may be financial (e.g. granting a loan), or they may consist of goods or services (e.g. consumer credit). Credit encompasses any form of deferred payment. [ 1 ] Credit is extended by a creditor, also known as a lender, to a debtor, also known as a borrower.
+Credit does not necessarily require money. The credit concept can be applied in barter economies as well, based on the direct exchange of goods and services. [ 2 ] However, in modern societies, credit is usually denominated by a unit of account. Unlike money, credit itself cannot act as a unit of account.
+Movements of financial capital are normally dependent on either credit or equity transfers. Credit is in turn dependent on the reputation or creditworthiness of the entity which takes responsibility for the funds. Credit is also traded in financial markets. The purest form is the credit default swap market, which is essentially a traded market in credit insurance. A credit default swap represents the price at which two parties exchange this riska the protection "seller" takes the risk of default of the credit in return for a payment, commonly denoted in basis points (one basis point is 1/100 of a percent) of the notional amount to be referenced, while the protection "buyer" pays this premium and in the case of default of the underlying (a loan, bond or other receivable), delivers this receivable to the protection seller and receives from the seller the par amount (that is, is made whole).
+Contents
+1 Types of credit , 2 Trade credit , 3 Consumer credit , 4 The Six C's of Credit , 5 See also , 6 References , 7 External links , . 
+Types of credit [ edit ] 
+Bank credit, Commerce, Consumer credit, Investment credit, International, Public credit, Real estate, . 
+Trade credit [ edit ] 
+The word credit is used in commercial trade in the term "trade credit" to refer to the approval for delayed payments for purchased goods. Credit is sometimes not granted to a person who has financial instability or difficulty. Companies frequently offer credit to their customers as part of the terms of a purchase agreement. Organizations that offer credit to their customers frequently employ a credit manager.
+Consumer credit [ edit ] 
+Consumer debt can be defined as amoney, goods or services provided to an individual in lieu of payment.a Common forms of consumer credit include credit cards, store cards, motor (auto) finance, personal loans (installment loans), consumer lines of credit, retail loans (retail installment loans) and mortgages. This is a broad definition of consumer credit and corresponds with the Bank of England's definition of "Lending to individuals". Given the size and nature of the mortgage market, many observers classify mortgage lending as a separate category of personal borrowing, and consequently residential mortgages are excluded from some definitions of consumer credit - such as the one adopted by the Federal Reserve in the US.
+The cost of credit is the additional amount, over and above the amount borrowed, that the borrower has to pay. It includes interest, arrangement fees and any other charges. Some costs are mandatory, required by the lender as an integral part of the credit agreement. Other costs, such as those for credit insurance, may be optional. The borrower chooses whether or not they are included as part of the agreement.
+Interest and other charges are presented in a variety of different ways, but under many legislative regimes lenders are required to quote all mandatory charges in the form of an annual percentage rate (APR). The goal of the APR calculation is to promote atruth in lendinga, to give potential borrowers a clear measure of the true cost of borrowing and to allow a comparison to be made between competing products. The APR is derived from the pattern of advances and repayments made during the agreement. Optional charges are not included in the APR calculation. So if there is a tick box on an application form asking if the consumer would like to take out payment insurance, then insurance costs will not be included in the APR calculation. [ 3 ] 
+The Six C's of Credit [ edit ] 
+Lenders, especially bankers, use a formula known as the six C's of credit when evaluating a credit application. Understanding them will help you make your applications as attractive as possible.
+Character. This is essentially a summary of the individual. Creditors look for people who appear to be trustworthy and reliable, and who are willing and able to meet their financial obligations.
+Capacity. This is the individual's ability to repay the loan; it is based on present and anticipated earnings balanced against existing debts.
+Collateral. The item pledged by the borrower as security for the loan, which may be real estate, stocks, savings, a mortgage, etc.
+Conditions . Both regulatory and economic conditions are considered. Regulatory conditions apply to the lenders individual circumstances; for example, when banks are not lending in specific areas. Economic conditions determine the lender's general policy towards loan. Both are affected by the current economic cycle.
+Credit . This is the individual's credit history.
+Capital . This is the net worth on an individual as indicated by a personal financial statement. [ 4 ] 
+See also [ edit ] 
+Commercial credit reporting, Credit bureau, Credit history, Credit risk, Credit score, Debt, Default (finance), Financial literacy, Installment credit, Line of credit, Payday loan, Person-to-person lending, Predatory lending, Revolving credit, Risk-return spectrum, Settlement (finance), Sub prime lending, Social Credit, . 
+References [ edit ] 
+^ Sullivan, Arthur; Steven M. Sheffrin (2003). Economics: Principles in action . Upper Saddle River, New Jersey 07458: Pearson Prentice Hall. p.512. ISBN0-13-063085-3. , ^ Ingham, G. (2004). The Nature of Money . Polity Press. pp.12a19. , ^ Finlay, S. (2009). Consumer Credit Fundamentals (2nd ed.). Palgrave Macmillan. , ^ Whitney, Russ (1994, 2006). Building Wealth (Completely Revised and Updated): Achieving Personal and Financial Success in Real State and Business Without Money, Credit, or Luck . p.215-216. Check date values in: date= (help) , Logemann, Jan, ed., The Development of Consumer Credit in Global Perspective: Business, Regulation, and Culture (New York: Palgrave Macmillan, 2012), ISBN 978-0-230-34105-0., . 
+External links [ edit ] 
+Quotations related to Credit at Wikiquote
+v , t , e , . Debt , Debt instruments 
+Bond Corporate bond, Debenture, Government bond, Municipal bond, . , Loan Consumer lending, Loan shark, Payday loan, Predatory lending, Usury, . , Managing debt Bankruptcy, Consolidation, Debt management plan, Debt relief, Debt restructuring, Debt-snowball method, DIP financing, Loan guarantee, . , Debt collection and evasion Bad debt, Charge-off, Collection agency, Debt bondage, Debt compliance, Debtors' prison, Distraint, Garnishment, Phantom debt, Strategic default, Tax refund interception, . , Debt markets Consumer debt, Corporate debt, Deposit account, Debt buyer, Fixed income, Government debt, Money market, Municipal debt, Securitization, Venture debt, . , Debt in economics Consumer leverage ratio, Debt levels and flows, External debt, Internal debt, Odious debt, . , Default, Insolvency, Interest, Interest rate, . , Retrieved from "http://en.wikipedia.org/w/index.php?title=Credit_(finance) and oldid=631876507" Categories: Credit, Debt, . Hidden categories: CS1 errors: dates, Articles needing expert attention with no reason or talk parameter, Articles needing expert attention from November 2013, All articles needing expert attention, Finance articles needing expert attention, . 
+Navigation menu
+Personal tools
+Create account, Log in, . 
+Namespaces
+Article , Talk , . 
+Variants 
+. 
+Views
+Read , Edit , View history , . 
+More 
+. 
+Search 
+Navigation
+Main page, Contents, Featured content, Current events, Random article, Donate to Wikipedia, Wikimedia Shop, . 
+Interaction
+Help, About Wikipedia, Community portal, Recent changes, Contact page, . 
+Tools
+What links here, Related changes, Upload file, Special pages, Permanent link, Page information, Wikidata item, Cite this page, . 
+Print/export
+Create a book, Download as PDF, Printable version, . 
+Languages
+OUOOOUO, AzErbaycanca, Bahasa Banjar, DDDDNNNDDN, DDDDNNNDDN (NDNDNDDDNND)a, DNDDDNNDD, Bosanski, CatalA, AeAtina, Cymraeg, Deutsch, IIIIIIII, EspaAol, Esperanto, Euskara, FranAais, iei, OOOOOOO, Hrvatski, Bahasa Indonesia, Italiano, ODDDOND, DNNDNDND, LatvieAu, LietuviA, Magyar, DDDDDDDNDD, Nederlands, aeaee, Norsk bokmAl, Norsk nynorsk, OEzbekcha, PortuguAs, RomAnA, DNNNDDD, Simple English, SlovenAina, Srpskohrvatski / NNDNDDNNDDNNDD, Svenska, TArkAe, DDNDNDNNDD, Tiang Viat, O, aeae, . Edit links This page was last modified on 31 October 2014 at 11:47.
+, Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. WikipediaA is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization., . Privacy policy, About Wikipedia, Disclaimers, Contact Wikipedia, Developers, Mobile view, . , . 

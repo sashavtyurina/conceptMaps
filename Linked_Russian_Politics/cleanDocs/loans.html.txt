@@ -1,0 +1,83 @@
+
+Loan - Wikipedia, the free encyclopedia
+Loan 
+From Wikipedia, the free encyclopedia Jump to: navigation, search For other uses, see Loan (disambiguation). 
+Finance , Financial markets Bond market, Commodity market, Derivatives market, Foreign exchange market, Money market, Over the counter, Private equity, Real estate, Spot market, Stock market, Financial market participants:, Investor and speculator, Institutional and retail, . , Financial instruments Cash:, Deposit, Derivative, Exotic option, Futures contract, Loan , Option (call or put), Security, Stock, Time deposit or certificate of deposit, . , Corporate finance Accounting, Audit, Capital budgeting, Credit rating agency, Financial risk management, Financial statement, Leveraged buyout, Mergers and acquisitions, Structured finance, Venture capital, . , Personal finance Credit and debt, Employment contract, Financial planning, Retirement, Student financial aid in the United States, . , Public finance Government spending :, Government final consumption expenditure, Government operations, Redistribution of wealth, Transfer payment, Government revenue :, Taxation, Deficit spending, Government budget, Government budget deficit, Government debt, Non-tax revenue, Warrant of payment, . , Banks and banking Central bank, Deposit account, Fractional reserve banking, Lists of banks, Loan , Money supply, . , Financial regulation Professional certification in financial services, Accounting scandals, . , Standards ISO 31000, International Financial Reporting Standards, . , Economic history History of private equity and venture capital, Recession, Stock market bubble, Stock market crash, . , v , t , e , . , In finance, a loan is a debt provided by one entity (organization or individual) to another entity at an interest rate, and evidenced by a note which specifies, among other things, the principal amount, interest rate, and date of repayment. A loan entails the reallocation of the subject asset(s) for a period of time, between the lender and the borrower.
+In a loan, the borrower initially receives or borrows an amount of money, called the principal , from the lender, and is obligated to pay back or repay an equal amount of money to the lender at a later time.
+The loan is generally provided at a cost, referred to as interest on the debt, which provides an incentive for the lender to engage in the loan. In a legal loan, each of these obligations and restrictions is enforced by contract, which can also place the borrower under additional restrictions known as loan covenants. Although this article focuses on monetary loans, in practice any material object might be lent.
+Acting as a provider of loans is one of the principal tasks for financial institutions. For other institutions, issuing of debt contracts such as bonds is a typical source of funding.
+Contents
+1 Types of loans 1.1 Secured , 1.2 Unsecured , 1.3 Demand , 1.4 Subsidized , 1.5 Concessional , . , 2 Target markets 2.1 Personal , 2.2 Commercial , . , 3 Loan payment , 4 Abuses in lending , 5 United States taxes , 6 Income from discharge of indebtedness , 7 See also , 8 References , . 
+Types of loans [ edit ] 
+Secured [ edit ] 
+See also: Loan guarantee 
+A secured loan is a loan in which the borrower pledges some asset (e.g. a car or property) as collateral.
+A mortgage loan is a very common type of debt instrument, used by many individuals to purchase housing. In this arrangement, the money is used to purchase the property. The financial institution, however, is given security a a lien on the title to the house a until the mortgage is paid off in full. If the borrower defaults on the loan, the bank would have the legal right to repossess the house and sell it, to recover sums owing to it.
+In some instances, a loan taken out to purchase a new or used car may be secured by the car, in much the same way as a mortgage is secured by housing. The duration of the loan period is considerably shorter a often corresponding to the useful life of the car. There are two types of auto loans, direct and indirect. A direct auto loan is where a bank gives the loan directly to a consumer. An indirect auto loan is where a car dealership acts as an intermediary between the bank or financial institution and the consumer.
+Unsecured [ edit ] 
+Unsecured loans are monetary loans that are not secured against the borrower's assets. These may be available from financial institutions under many different guises or marketing packages:
+credit card debt, personal loans, bank overdrafts, credit facilities or lines of credit, corporate bonds (may be secured or unsecured), . 
+The interest rates applicable to these different forms may vary depending on the lender and the borrower. These may or may not be regulated by law. In the United Kingdom, when applied to individuals, these may come under the Consumer Credit Act 1974.
+Interest rates on unsecured loans are nearly always higher than for secured loans, because an unsecured lender's options for recourse against the borrower in the event of default are severely limited. An unsecured lender must sue the borrower, obtain a money judgment for breach of contract, and then pursue execution of the judgment against the borrower's unencumbered assets (that is, the ones not already pledged to secured lenders). In insolvency proceedings, secured lenders traditionally have priority over unsecured lenders when a court divides up the borrower's assets. Thus, a higher interest rate reflects the additional risk that in the event of insolvency, the debt may be uncollectible.
+Demand [ edit ] 
+Demand loans are short term loans [ 1 ] that are atypical in that they do not have fixed dates for repayment and carry a floating interest rate which varies according to the prime lending rate. They can be "called" for repayment by the lending institution at any time. Demand loans may be unsecured or secured.
+Subsidized [ edit ] 
+A subsidized loan is a loan on which the interest is reduced by an explicit or hidden subsidy. In the context of college loans in the [United States], it refers to a loan on which no interest is accrued while a student remains enrolled in education. [ 2 ] 
+Concessional [ edit ] 
+A concessional loan, sometimes called a "soft loan, " is granted on terms substantially more generous than market loans either through below-market interest rates, by grace periods or a combination of both. [ 3 ] Such loans may be made by foreign governments to developing countries or may be offered to employees of lending institutions as an employee benefit.
+Target markets [ edit ] 
+Personal [ edit ] 
+See also: Credit_(finance) A Consumer_credit 
+Loans can also be subcategorized according to whether the debtor is an individual person (consumer) or a business. Common personal loans include mortgage loans, car loans, home equity lines of credit, credit cards, installment loans and payday loans. The credit score of the borrower is a major component in and underwriting and interest rates (APR) of these loans. The monthly payments of personal loans can be decreased by selecting longer payment terms, but overall interest paid increases as well. For car loans in the U.S., the average term was about 60 months in 2009. [ citation needed ] 
+Commercial [ edit ] 
+Loans to businesses are similar to the above, but also include commercial mortgages and corporate bonds. Underwriting is not based upon credit score but rather credit rating.
+Loan payment [ edit ] 
+The most typical loan payment type is the fully amortizing payment in which each monthly rate has the same value over time. [ 4 ] 
+The fixed monthly payment P for a loan of L for n months and a monthly interest rate c is:
+For more information see "Monthly loan or mortgage payments" under Compound Interest
+Abuses in lending [ edit ] 
+Predatory lending is one form of abuse in the granting of loans. It usually involves granting a loan in order to put the borrower in a position that one can gain advantage over him or her. Where the moneylender is not authorized, they could be considered a loan shark.
+Usury is a different form of abuse, where the lender charges excessive interest. In different time periods and cultures the acceptable interest rate has varied, from no interest at all to unlimited interest rates. Credit card companies in some countries have been accused by consumer organizations of lending at usurious interest rates and making money out of frivolous "extra charges". [ 5 ] 
+Abuses can also take place in the form of the customer abusing the lender by not repaying the loan or with an intent to defraud the lender.
+United States taxes [ edit ] 
+, This section needs additional citations for verification . Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2012) , Most of the basic rules governing how loans are handled for tax purposes in the United States are codified by both Congress (the Internal Revenue Code) and the Treasury Department (Treasury Regulations a another set of rules that interpret the Internal Revenue Code). [ 6 ] Yet such rules are universally accepted. [ 7 ] 
+1. A loan is not gross income to the borrower. [ 8 ] Since the borrower has the obligation to repay the loan, the borrower has no accession to wealth. [ 9 ] 
+2. The lender may not deduct (from own gross income) the amount of the loan. [ 10 ] The rationale here is that one asset (the cash) has been converted into a different asset (a promise of repayment). [ 11 ] Deductions are not typically available when an outlay serves to create a new or different asset. [ 12 ] 
+3. The amount paid to satisfy the loan obligation is not deductible (from own gross income) by the borrower. [ 13 ] 
+4. Repayment of the loan is not gross income to the lender. [ 14 ] In effect, the promise of repayment is converted back to cash, with no accession to wealth by the lender. [ 15 ] 
+5. Interest paid to the lender is included in the lenderas gross income. [ 16 ] Interest paid represents compensation for the use of the lenderas money or property and thus represents profit or an accession to wealth to the lender. [ 17 ] Interest income can be attributed to lenders even if the lender doesnat charge a minimum amount of interest. [ 18 ] 
+6. Interest paid to the lender may be deductible by the borrower. [ 19 ] In general, interest paid in connection with the borroweras business activity is deductible, while interest paid on personal loans are not deductible. [ 20 ] The major exception here is interest paid on a home mortgage. [ 21 ] 
+Income from discharge of indebtedness [ edit ] 
+Although a loan does not start out as income to the borrower, it becomes income to the borrower if the borrower is discharged of indebtedness. [ 22 ] Thus, if a debt is discharged, then the borrower essentially has received income equal to the amount of the indebtedness. The Internal Revenue Code lists aIncome from Discharge of Indebtednessa in Section 61(a)(12) as a source of gross income. 
+Example: X owes Y $50, 000. If Y discharges the indebtedness, then X no longer owes Y $50, 000. For purposes of calculating income, this should be treated the same way as if Y gave X $50, 000.
+For a more detailed description of the adischarge of indebtednessa, look at Section 108 (Cancellation of Debt (COD) Income) of the Internal Revenue Code. [ 23 ] [ 24 ] 
+See also [ edit ] 
+Finance, Personal finance, Settlement (finance), Debt, Consumer debt, Debt consolidation, Government debt, Bank, Fractional-reserve banking, Building society, Annual percentage rate (a.k.a. Effective annual rate), Default (finance), Interest-only loan, Negative amortization, PIK loan, Leveraged loan, Loan guarantee, Loan sale, Payday loan, Refund Anticipation Loan, Student loan, Syndicated loan, Title loan, Legal financing, Pay it forward, . 
+US specific: 
+FAFSA, Federal student loan consolidation, Federal Perkins Loan, George D. Sax and the Exchange National Bank of Chicago - Innovation of instant loans, Stafford loan, Student loan default, . 
+References [ edit ] 
+, Constructs such as ibid. , loc. cit. and idem are discouraged by Wikipedia's style guide for footnotes , as they are easily broken. Please improve this article by replacing them with named references ( quick guide ), or an abbreviated title. (September 2014) , ^ Signoriello, Vincent J. (1991), Commercial Loan Practices and Operations , ISBN978-1-55520-134-0 , ^ Subsidized Loan - Definition and Overview at About.com . Retrieved 2011-12-21. , ^ Concessional Loans, Glossary of Statistical Terms, oecd.org, Retrieved on 5/5/2013 , ^ Guttentag, Jack (October 6, 2007). "The Math Behind Your Home Loan". The Washington Post . Retrieved May 11, 2010 . , ^ Credit card holders pay Rs 6, 000 cr 'extra' May 3, 2007 , ^ Samuel A. Donaldson, Federal Income Taxation of Individuals: Cases, Problems and Materials, 2nd Ed. 111 (2007). , ^ Id. , ^ Id. , ^ Id. See Commissioner v. Glenshaw Glass Co. , 348 U.S. 426 (1955)(giving the three-prong standard for what is "income" for tax purposes: (1) accession to wealth, (2) clearly realized, (3) over which the taxpayer has complete dominion). , ^ Donaldson, at 111. , ^ Id. , ^ Id. , ^ Id. , ^ Id. , ^ Id. , ^ Id. ; 26 U.S.C. 61(a)(4)(2007). , ^ Id. , ^ Id. at 112. , ^ Id. , ^ Id. , ^ Id. , ^ Id. ; 26 U.S.C. 61(a)(12)(2007). , ^ Id. ; 26 U.S.C. 108(2007). , ^ EUGENE A. LUDWIG AND PAUL A. VOLCKER, 16 November 2012 Banks Need Long-Term Rainy Day Funds, Start reading from smallloansfor12months.co.uk , v , t , e , . Debt , Debt instruments 
+Bond Corporate bond, Debenture, Government bond, Municipal bond, . , Loan Consumer lending, Loan shark, Payday loan, Predatory lending, Usury, . , Managing debt Bankruptcy, Consolidation, Debt management plan, Debt relief, Debt restructuring, Debt-snowball method, DIP financing, Loan guarantee, . , Debt collection and evasion Bad debt, Charge-off, Collection agency, Debt bondage, Debt compliance, Debtors' prison, Distraint, Garnishment, Phantom debt, Strategic default, Tax refund interception, . , Debt markets Consumer debt, Corporate debt, Deposit account, Debt buyer, Fixed income, Government debt, Money market, Municipal debt, Securitization, Venture debt, . , Debt in economics Consumer leverage ratio, Debt levels and flows, External debt, Internal debt, Odious debt, . , Default, Insolvency, Interest, Interest rate, . , Retrieved from "http://en.wikipedia.org/w/index.php?title=Loan and oldid=631334051" Categories: Loans, Banking terms, . Hidden categories: All articles with unsourced statements, Articles with unsourced statements from October 2013, Articles needing additional references from February 2012, All articles needing additional references, Articles with ibid from September 2014, . 
+Navigation menu
+Personal tools
+Create account, Log in, . 
+Namespaces
+Article , Talk , . 
+Variants 
+. 
+Views
+Read , Edit , View history , . 
+More 
+. 
+Search 
+Navigation
+Main page, Contents, Featured content, Current events, Random article, Donate to Wikipedia, Wikimedia Shop, . 
+Interaction
+Help, About Wikipedia, Community portal, Recent changes, Contact page, . 
+Tools
+What links here, Related changes, Upload file, Special pages, Permanent link, Page information, Wikidata item, Cite this page, . 
+Print/export
+Create a book, Download as PDF, Printable version, . 
+Languages
+OUOOOUO, AzErbaycanca, DDDDNNNDDN, DDDDNNNDDN (NDNDNDDDNND)a, CatalA, AeAtina, ChiShona, Cymraeg, Dansk, Deutsch, Eesti, IIIIIIII, EspaAol, Esperanto, UOOOU, FranAais, Frysk, iei, OOOOOOO, Bahasa Indonesia, Italiano, ODDDOND, Latina, UOOU, Nederlands, aaaaa aaaa, aeaee, Norsk bokmAl, Norsk nynorsk, Polski, PortuguAs, DNNNDDD, Scots, Simple English, SlovenAina, SlovenAAina, DNDNDD / srpski, Suomi, Svenska, Tagalog, DDNDNDNNDD, OOOU, O, ce, aeae, . Edit links This page was last modified on 27 October 2014 at 15:42.
+, Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. WikipediaA is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization., . Privacy policy, About Wikipedia, Disclaimers, Contact Wikipedia, Developers, Mobile view, . , . 
