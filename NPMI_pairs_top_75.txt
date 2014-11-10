@@ -1,0 +1,98 @@
+17
+	deputies	united_russia
+0
+	deputies	the_federation_treaty
+1903
+	deputies	prime_minister
+356
+	deputies	upper_house
+13
+	deputies	oblasts
+2682
+	deputies	law
+12
+	deputies	zyuganov
+1
+	deputies	subnational
+2
+	deputies	executive-legislative
+81
+	deputies	sovereignty
+454
+	deputies	legislation
+3674
+	deputies	government
+792
+	deputies	russian
+6
+	deputies	union_republics
+0
+	deputies	new_legislative_elections
+1369
+	deputies	legislature
+328
+	deputies	the_soviet_union
+57
+	deputies	vladimir_putin
+105
+	deputies	rsfsr
+274
+	deputies	referendum
+320
+	deputies	yeltsin
+2165
+	deputies	soviet
+3564
+	deputies	parties
+118
+	deputies	republics
+592
+	deputies	laws
+401
+	deputies	the_state_duma
+242
+	deputies	moscow
+57
+	deputies	presidential_election
+99
+	deputies	the_russian_federation
+12
+	deputies	soviet-era
+0
+	deputies	russian_republic
+113
+	the_federal_assembly	the_federation_council
+5
+	the_federal_assembly	treaty
+0
+	the_federal_assembly	the_superior_court_of_arbitration
+1
+	the_federal_assembly	united_russia
+0
+	the_federal_assembly	the_federation_treaty
+52
+	the_federal_assembly	upper_house
+1
+	the_federal_assembly	zyuganov
+0
+	the_federal_assembly	union_republics
+0
+	the_federal_assembly	the_soviet_union
+16
+	the_federal_assembly	vladimir_putin
+13
+	the_federal_assembly	yeltsin
+128
+	the_federal_assembly	the_state_duma
+465
+	the_federal_assembly	the_russian_federation
+418
+	russia	the_federal_assembly
+1227
+	russia	state_duma
+103
+	russia	the_constitutional_court
+123
+	russia	russian_presidential_election
+579
+	russia	seats

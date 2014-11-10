@@ -1,0 +1,77 @@
+ENT1: deputies,
+ENT2: law,
+RELATION: The law requires that at least 50 percent of eligible voters participate in order for a presidential election to be valid. In State Duma debate over the legislation, some deputies had advocated a minimum of 25 percent (which was later incorporated into the electoral law covering the State Duma), warning that many Russians were disillusioned with voting and would not turn out. To make voter participation more appealing, the law required one voting precinct for approximately every 3, 000 voters, with voting allowed until late at night. The conditions for absentee voting were eased, and portable ballot boxes were to be made available on demand. Strict requirements were established for the presence of election observers, including emissaries from all participating parties, blocs, and groups, at polling places and local electoral commissions to guard against tampering and to ensure proper tabulation.
+
+
+ *** 
+
+ENT1: deputies,
+ENT2: law,
+RELATION: Despite its "transitional" nature, the Federal Assembly of 1994-95 approved about 500 pieces of legislation in two years. When the new parliament convened in January 1996, deputies were provided with a catalog of these laws and were directed to work in their assigned committees to fill gaps in existing legislation as well as to draft new laws. A major accomplishment of the 1994-95 legislative sessions was passage of the first two parts of a new civil code, desperately needed to update antiquated Soviet-era provisions. The new code included provisions on contract obligations, rents, insurance, loans and credit, partnership, and trusteeship, as well as other legal standards essential to support the creation of a market economy. Work on several bills that had been in committee or in floor debate in the previous legislature resumed in the new body. Similarly, several bills that Yeltsin had vetoed were taken up again by the new legislature.
+
+
+ *** 
+
+ENT1: deputies,
+ENT2: executive-legislative,
+RELATION: The executive-legislative crisis of the fall of 1993 prompted Yeltsin to emplace constitutional obstacles to legislative removal of the president. Under the 1993 constitution, if the president commits "grave crimes" or treason, the State Duma may file impeachment charges with the parliament's upper house, the Federation Council. These charges must be confirmed by a ruling of the Supreme Court that the president's actions constitute a crime and by a ruling of the Constitutional Court that proper procedures in filing charges have been followed. The charges then must be adopted by a special commission of the State Duma and confirmed by at least two-thirds of State Duma deputies. A two-thirds vote of the Federation Council is required for removal of the president. If the Federation Council does not act within three months, the charges are dropped. If the president is removed from office or becomes unable to exercise power because of serious illness, the prime minister is to temporarily assume the president's duties; a presidential election then must be held within three months. The constitution does not provide for a vice president, and there is no specific procedure for determining whether the president is able to carry out his duties.
+
+
+ *** 
+
+ENT1: deputies,
+ENT2: legislation,
+RELATION: The law requires that at least 50 percent of eligible voters participate in order for a presidential election to be valid. In State Duma debate over the legislation, some deputies had advocated a minimum of 25 percent (which was later incorporated into the electoral law covering the State Duma), warning that many Russians were disillusioned with voting and would not turn out. To make voter participation more appealing, the law required one voting precinct for approximately every 3, 000 voters, with voting allowed until late at night. The conditions for absentee voting were eased, and portable ballot boxes were to be made available on demand. Strict requirements were established for the presence of election observers, including emissaries from all participating parties, blocs, and groups, at polling places and local electoral commissions to guard against tampering and to ensure proper tabulation.
+
+
+ *** 
+
+ENT1: deputies,
+ENT2: legislation,
+RELATION: Despite its "transitional" nature, the Federal Assembly of 1994-95 approved about 500 pieces of legislation in two years. When the new parliament convened in January 1996, deputies were provided with a catalog of these laws and were directed to work in their assigned committees to fill gaps in existing legislation as well as to draft new laws. A major accomplishment of the 1994-95 legislative sessions was passage of the first two parts of a new civil code, desperately needed to update antiquated Soviet-era provisions. The new code included provisions on contract obligations, rents, insurance, loans and credit, partnership, and trusteeship, as well as other legal standards essential to support the creation of a market economy. Work on several bills that had been in committee or in floor debate in the previous legislature resumed in the new body. Similarly, several bills that Yeltsin had vetoed were taken up again by the new legislature.
+
+
+ *** 
+
+ENT1: deputies,
+ENT2: government,
+RELATION: The presidential election of 1996 was a major episode in the struggle between Yeltsin and the Communist Party of the Russian Federation (KPRF), which sought to oust Yeltsin from office and return to power. Yeltsin had banned the Communist Party of the Russian Republic for its central role in the August 1991 coup against the Gorbachev government. As a member of the Politburo and the Secretariat of the banned party, Gennady Zyuganov had worked hard to gain its relegalization. Despite Yeltsin's objections, the Constitutional Court cleared the way for the Russian communists to reemerge as the KPRF, headed by Zyuganov, in February 1993. Yeltsin temporarily banned the party again in October 1993 for its role in the Supreme Soviet's just-concluded attempt to overthrow his administration. Beginning in 1993, Zyuganov also led efforts by KPRF deputies to impeach Yeltsin. After the KPRF's triumph in the December 1995 legislative elections, Yeltsin announced that he would run for reelection with the main purpose of safeguarding Russia from a communist restoration.
+
+
+ *** 
+
+ENT1: deputies,
+ENT2: legislature,
+RELATION: Deputies of the State Duma work full-time on their legislative duties; they are not allowed to serve simultaneously in local legislatures or hold Government positions. A transitional clause in the constitution, however, allowed deputies elected in December 1993 to retain their Government employment, a provision that allowed many officials of the Yeltsin administration to serve in the parliament. After the December 1995 legislative elections, nineteen Government officials were forced to resign their offices in order to take up their legislative duties.
+
+
+ *** 
+
+ENT1: deputies,
+ENT2: legislature,
+RELATION: Despite its "transitional" nature, the Federal Assembly of 1994-95 approved about 500 pieces of legislation in two years. When the new parliament convened in January 1996, deputies were provided with a catalog of these laws and were directed to work in their assigned committees to fill gaps in existing legislation as well as to draft new laws. A major accomplishment of the 1994-95 legislative sessions was passage of the first two parts of a new civil code, desperately needed to update antiquated Soviet-era provisions. The new code included provisions on contract obligations, rents, insurance, loans and credit, partnership, and trusteeship, as well as other legal standards essential to support the creation of a market economy. Work on several bills that had been in committee or in floor debate in the previous legislature resumed in the new body. Similarly, several bills that Yeltsin had vetoed were taken up again by the new legislature.
+
+
+ *** 
+
+ENT1: deputies,
+ENT2: referendum,
+RELATION: The 616-member parliament, termed the Federal Assembly, consists of two houses, the 450-member State Duma (the lower house) and the 166-member Federation Council (the upper house). Russia's legislative body was established by the constitution approved in the December 1993 referendum. The first elections to the Federal Assembly were held at the same timeaa procedure criticized by some Russians as indicative of Yeltsin's lack of respect for constitutional niceties. Under the constitution, the deputies elected in December 1993 were termed "transitional" because they were to serve only a two-year term. In April 1994, legislators, Government officials, and many prominent businesspeople and religious leaders signed a "Civic Accord" proposed by Yeltsin, pledging during the two-year "transition period" to refrain from violence, calls for early presidential or legislative elections, and attempts to amend the constitution. This accord, and memories of the violent confrontation of the previous parliament with Government forces, had some effect in softening political rhetoric during the next two years.
+
+
+ *** 
+
+ENT1: deputies,
+ENT2: parties,
+RELATION: The law requires that at least 50 percent of eligible voters participate in order for a presidential election to be valid. In State Duma debate over the legislation, some deputies had advocated a minimum of 25 percent (which was later incorporated into the electoral law covering the State Duma), warning that many Russians were disillusioned with voting and would not turn out. To make voter participation more appealing, the law required one voting precinct for approximately every 3, 000 voters, with voting allowed until late at night. The conditions for absentee voting were eased, and portable ballot boxes were to be made available on demand. Strict requirements were established for the presence of election observers, including emissaries from all participating parties, blocs, and groups, at polling places and local electoral commissions to guard against tampering and to ensure proper tabulation.
+
+
+ *** 
+
+ENT1: deputies,
+ENT2: laws,
+RELATION: Despite its "transitional" nature, the Federal Assembly of 1994-95 approved about 500 pieces of legislation in two years. When the new parliament convened in January 1996, deputies were provided with a catalog of these laws and were directed to work in their assigned committees to fill gaps in existing legislation as well as to draft new laws. A major accomplishment of the 1994-95 legislative sessions was passage of the first two parts of a new civil code, desperately needed to update antiquated Soviet-era provisions. The new code included provisions on contract obligations, rents, insurance, loans and credit, partnership, and trusteeship, as well as other legal standards essential to support the creation of a market economy. Work on several bills that had been in committee or in floor debate in the previous legislature resumed in the new body. Similarly, several bills that Yeltsin had vetoed were taken up again by the new legislature.
+
+
+ *** 
+
